@@ -1,0 +1,30 @@
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\bin\Debug\CIS Projac1.exe.config
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\bin\Debug\CIS Projac1.exe
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\bin\Debug\CIS Projac1.pdb
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS_Projac1.Form1.resources
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS_Projac1.Properties.Resources.resources
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csproj.GenerateResource.Cache
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.exe
+c:\users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.pdb
+C:\Users\user\source\repos\CIS Projac1\CIS Projac1\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\CIS Projac1\CIS Projac1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csproj.ResolveComReference.cache
+E:\CIS Projac1\CIS Projac1\bin\Debug\CIS Projac1.exe.config
+E:\CIS Projac1\CIS Projac1\bin\Debug\CIS Projac1.exe
+E:\CIS Projac1\CIS Projac1\bin\Debug\CIS Projac1.pdb
+E:\CIS Projac1\CIS Projac1\bin\Debug\Interop.WMPLib.dll
+E:\CIS Projac1\CIS Projac1\bin\Debug\AxInterop.WMPLib.dll
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csprojResolveAssemblyReference.cache
+E:\CIS Projac1\CIS Projac1\obj\Debug\Interop.WMPLib.dll
+E:\CIS Projac1\CIS Projac1\obj\Debug\AxInterop.WMPLib.dll
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csproj.ResolveComReference.cache
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS_Projac1.Form1.resources
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS_Projac1.Properties.Resources.resources
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csproj.GenerateResource.Cache
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.csproj.CoreCompileInputs.cache
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.exe
+E:\CIS Projac1\CIS Projac1\obj\Debug\CIS Projac1.pdb
